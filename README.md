@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- ![alt text](https://raw.githubusercontent.com/giper45/DockerSecurityPlayground/master/public/assets/img/DSP_Example.png) -->
 
-![](https://i.imgur.com/thNV8M7.png)
+![](https://i.imgur.com/sO0NtHb.png)
 
 
 Docker Security Playground is an application that allows you to: 
